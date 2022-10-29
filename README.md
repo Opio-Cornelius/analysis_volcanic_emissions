@@ -1,4 +1,4 @@
-# analysis_volcanic_emissions
+# Analysis_volcanic_emissions
 Convolutional U-net algorithm and analysis code for bias correcting WRF-chem simulations of sulphur dioxide (SO2) emitted from a volcano. The most important file is so2_wrf_dca_phase3.py
 
 # Article:
